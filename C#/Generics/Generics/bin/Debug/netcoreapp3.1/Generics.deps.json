@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Generics/1.0.0": {
+        "dependencies": {
+          "TreeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Generics.dll": {}
+        }
+      },
+      "TreeLibrary/1.0.0": {
+        "runtime": {
+          "TreeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TreeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

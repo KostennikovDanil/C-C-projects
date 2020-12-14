@@ -1,0 +1,8 @@
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\Filters\bin\Debug\netcoreapp3.1\Picture.deps.json
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\Filters\bin\Debug\netcoreapp3.1\Picture.dll
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\Filters\bin\Debug\netcoreapp3.1\Picture.pdb
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\Filters\obj\Debug\netcoreapp3.1\Picture.csprojAssemblyReference.cache
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\Filters\obj\Debug\netcoreapp3.1\Picture.AssemblyInfoInputs.cache
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\Filters\obj\Debug\netcoreapp3.1\Picture.AssemblyInfo.cs
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\Filters\obj\Debug\netcoreapp3.1\Picture.dll
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\Filters\obj\Debug\netcoreapp3.1\Picture.pdb

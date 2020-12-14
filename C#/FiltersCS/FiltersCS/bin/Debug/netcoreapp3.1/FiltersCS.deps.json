@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FiltersCS/1.0.0": {
+        "dependencies": {
+          "Picture": "1.0.0"
+        },
+        "runtime": {
+          "FiltersCS.dll": {}
+        }
+      },
+      "Picture/1.0.0": {
+        "runtime": {
+          "Picture.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FiltersCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Picture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

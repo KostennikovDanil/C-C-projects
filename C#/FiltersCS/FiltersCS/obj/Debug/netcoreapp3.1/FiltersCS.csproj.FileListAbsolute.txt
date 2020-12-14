@@ -1,0 +1,14 @@
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\bin\Debug\netcoreapp3.1\FiltersCS.exe
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\bin\Debug\netcoreapp3.1\FiltersCS.deps.json
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\bin\Debug\netcoreapp3.1\FiltersCS.runtimeconfig.json
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\bin\Debug\netcoreapp3.1\FiltersCS.runtimeconfig.dev.json
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\bin\Debug\netcoreapp3.1\FiltersCS.dll
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\bin\Debug\netcoreapp3.1\FiltersCS.pdb
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\bin\Debug\netcoreapp3.1\Picture.dll
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\bin\Debug\netcoreapp3.1\Picture.pdb
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\obj\Debug\netcoreapp3.1\FiltersCS.csprojAssemblyReference.cache
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\obj\Debug\netcoreapp3.1\FiltersCS.AssemblyInfoInputs.cache
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\obj\Debug\netcoreapp3.1\FiltersCS.AssemblyInfo.cs
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\obj\Debug\netcoreapp3.1\FiltersCS.csproj.CopyComplete
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\obj\Debug\netcoreapp3.1\FiltersCS.dll
+C:\Users\Rio\Documents\GitHub\spsu-mm-programming-first-course\HomeWork\Spring\HomeWork\FiltersCS\FiltersCS\obj\Debug\netcoreapp3.1\FiltersCS.pdb

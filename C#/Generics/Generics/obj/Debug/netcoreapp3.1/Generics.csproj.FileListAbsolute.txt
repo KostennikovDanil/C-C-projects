@@ -1,0 +1,14 @@
+C:\Users\Rio\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\Rio\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\Rio\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\Rio\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\Rio\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\Rio\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\Rio\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\TreeLibrary.dll
+C:\Users\Rio\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\TreeLibrary.pdb
+C:\Users\Rio\source\repos\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\Users\Rio\source\repos\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\Rio\source\repos\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\Rio\source\repos\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CopyComplete
+C:\Users\Rio\source\repos\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\Rio\source\repos\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb

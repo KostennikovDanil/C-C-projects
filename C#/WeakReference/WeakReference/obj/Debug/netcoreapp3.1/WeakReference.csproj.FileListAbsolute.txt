@@ -1,0 +1,11 @@
+C:\Users\Rio\source\repos\WeakReference\WeakReference\bin\Debug\netcoreapp3.1\WeakReference.exe
+C:\Users\Rio\source\repos\WeakReference\WeakReference\bin\Debug\netcoreapp3.1\WeakReference.deps.json
+C:\Users\Rio\source\repos\WeakReference\WeakReference\bin\Debug\netcoreapp3.1\WeakReference.runtimeconfig.json
+C:\Users\Rio\source\repos\WeakReference\WeakReference\bin\Debug\netcoreapp3.1\WeakReference.runtimeconfig.dev.json
+C:\Users\Rio\source\repos\WeakReference\WeakReference\bin\Debug\netcoreapp3.1\WeakReference.dll
+C:\Users\Rio\source\repos\WeakReference\WeakReference\bin\Debug\netcoreapp3.1\WeakReference.pdb
+C:\Users\Rio\source\repos\WeakReference\WeakReference\obj\Debug\netcoreapp3.1\WeakReference.csprojAssemblyReference.cache
+C:\Users\Rio\source\repos\WeakReference\WeakReference\obj\Debug\netcoreapp3.1\WeakReference.AssemblyInfoInputs.cache
+C:\Users\Rio\source\repos\WeakReference\WeakReference\obj\Debug\netcoreapp3.1\WeakReference.AssemblyInfo.cs
+C:\Users\Rio\source\repos\WeakReference\WeakReference\obj\Debug\netcoreapp3.1\WeakReference.dll
+C:\Users\Rio\source\repos\WeakReference\WeakReference\obj\Debug\netcoreapp3.1\WeakReference.pdb

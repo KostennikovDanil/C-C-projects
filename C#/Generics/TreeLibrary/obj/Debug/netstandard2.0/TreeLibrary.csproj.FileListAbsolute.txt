@@ -1,0 +1,8 @@
+C:\Users\Rio\source\repos\Generics\TreeLibrary\bin\Debug\netstandard2.0\TreeLibrary.deps.json
+C:\Users\Rio\source\repos\Generics\TreeLibrary\bin\Debug\netstandard2.0\TreeLibrary.dll
+C:\Users\Rio\source\repos\Generics\TreeLibrary\bin\Debug\netstandard2.0\TreeLibrary.pdb
+C:\Users\Rio\source\repos\Generics\TreeLibrary\obj\Debug\netstandard2.0\TreeLibrary.csprojAssemblyReference.cache
+C:\Users\Rio\source\repos\Generics\TreeLibrary\obj\Debug\netstandard2.0\TreeLibrary.AssemblyInfoInputs.cache
+C:\Users\Rio\source\repos\Generics\TreeLibrary\obj\Debug\netstandard2.0\TreeLibrary.AssemblyInfo.cs
+C:\Users\Rio\source\repos\Generics\TreeLibrary\obj\Debug\netstandard2.0\TreeLibrary.dll
+C:\Users\Rio\source\repos\Generics\TreeLibrary\obj\Debug\netstandard2.0\TreeLibrary.pdb
